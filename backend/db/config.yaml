@@ -1,0 +1,5 @@
+db:
+  host: 192.168.91.196
+  user: clientUsers
+  password: ronaldo7
+  name: fl_database
