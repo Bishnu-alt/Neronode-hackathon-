@@ -50,7 +50,7 @@ Backend code: [NeuroNode Backend Repository](https://github.com/Bishnu-alt/Neron
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/NeuroNode.git
+git clone https://github.com/Bishnu-alt/Neronode-hackathon-).git
 cd NeuroNode/frontend 
 ```
 2. Set Up Python Environment (Recommended)
