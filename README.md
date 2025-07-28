@@ -31,7 +31,6 @@ This repository contains the **Streamlit frontend application** for NeuroNode, p
 ### Backend
 
 - FastAPI (Python backend)
-- Federated Learning Framework (e.g., Flower, PySyft, or custom implementation)
 
 > 📢 **Note**: This application expects an API endpoint at `http://localhost:8000/`.
 
